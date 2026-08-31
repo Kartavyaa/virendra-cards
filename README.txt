@@ -22,3 +22,12 @@ Configured business details:
 - Delivery: shop pickup in Ghaziabad, personal delivery across Delhi NCR, postal delivery across India
 
 When actual card photographs are available, replace the placeholder catalogue artwork with real card images.
+
+
+SEO content pages added:
+- wedding-cards-ghaziabad.html
+- engagement-cards-ghaziabad.html
+- box-cards-ghaziabad.html
+- invitation-printing-ghaziabad.html
+
+These pages contain distinct, customer-useful local information and are internally linked from the homepage.
