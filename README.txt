@@ -1,18 +1,24 @@
-Virendra Cards Website — Complete Starter
+Virendra Cards Website — Final Starter
 
-Business details configured:
+Root files are ready for GitHub Pages:
+- index.html
+- style.css
+- script.js
+- logo.png
+- CNAME
+- robots.txt
+- sitemap.xml
+
+Configured business details:
 - Established: 1976
-- WhatsApp / Phone: +91 88260 76950
+- Phone / WhatsApp: +91 88260 76950
 - Email: agarwalkartavya15@gmail.com
 - Address: Virendra Cards, Agrasen Bazaar, Chopla Mandir, Ghaziabad, Uttar Pradesh — 201001
 - Google Maps Plus Code: MC7G+RR Ghaziabad, Uttar Pradesh
-- Hours: 11:00 AM–7:30 PM; Tuesday closed
+- Hours: 11:00 AM – 7:30 PM; Tuesday closed
 - Services: Wedding Cards, Engagement Cards, Box Cards, Printing
-- Personalisation: Names, wedding dates, venues, printing colours and fonts
-- Card design itself is not customisable
-- Pricing: Price on enquiry
-- Delivery: Shop pickup in Ghaziabad, personal home delivery across Delhi NCR, postal services across India
-- Reviews: omitted for now
-- Social media: omitted for now
+- Personalisation: names, wedding dates, venues, printing colours and fonts
+- Pricing: Price on Enquiry
+- Delivery: shop pickup in Ghaziabad, personal delivery across Delhi NCR, postal delivery across India
 
-To open locally: double-click index.html.
+When actual card photographs are available, replace the placeholder catalogue artwork with real card images.
